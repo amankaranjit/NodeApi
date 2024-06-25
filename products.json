@@ -1,0 +1,9 @@
+[
+  { "name": "iphone 11", "price": 150, "featured": false, "company": "apple" },
+  { "name": "iphone 12", "price": 250, "featured": false, "company": "apple" },
+  { "name": "iphone 13", "price": 350, "featured": true, "company": "apple" },
+  { "name": "iphone 14", "price": 450, "featured": false, "company": "apple" },
+  { "name": "iphone 15", "price": 550, "featured": true, "company": "apple" },
+  { "name": "s23", "price": 350, "featured": true, "company": "samsung" },
+  { "name": "s24", "price": 550, "featured": true, "company": "samsung" }
+]
